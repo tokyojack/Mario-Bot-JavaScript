@@ -1,7 +1,7 @@
 {
-  "name": "math_bot",
+  "name": "mario_bot",
   "version": "1.0.0",
-  "description": "A bot that has a lot of math-related questions to speed up math solving",
+  "description": "A Discord bot made with Discord.js that allows me to compare with Discord.py",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
