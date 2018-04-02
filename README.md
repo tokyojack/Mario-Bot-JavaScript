@@ -16,7 +16,7 @@
 
 ## Usage
 
-!ping - Bot returns with Pong
+!ping - Bot replies with Pong
 
 *Note: as this bot is made for me to compare it to Python Discord bots, there are very little features*
 
