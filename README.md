@@ -16,7 +16,9 @@
 
 ## Usage
 
-The default command prefix in the config is "!", so start your commands with it  to run it
+!ping - Bot returns with Pong
+
+*Note: as this bot is made for me to compare it to Python Discord bots, there are very little features*
 
 ##
 
